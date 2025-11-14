@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veerakabilan31.github.io/sitemap.xml
