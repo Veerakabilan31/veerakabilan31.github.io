@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://veerakabilan.onrender.com/sitemap.xml
+Sitemap: https://veerakabilan31.github.io/sitemap.xml
